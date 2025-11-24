@@ -6,8 +6,6 @@
 
 Vừa qua hết giải SV ANM mình có làm qua một bài trong giải của author Konoha. Cũng lâu rồi mình mới quay lại làm RE nên làm cũng chậm. Theo đánh giá của mình cũng như chia sẻ của author thì challenge này cũng chưa thực sự dùng hết "sức mạnh" của author và cũng không khó cho ae tham gia RE năm nay. Vì vậy mình sẽ chia sẻ qua cách làm và một số điểm hay ho mà author đã chia sẻ cho mình về ý tưởng làm đề.
 
-Với một người đam mê về nghiên cứu mã độc như mình thì mình thấy challenge thực sự có nhiều kỹ thuật mới mẻ, giúp mình mở mang thêm kiến thức...
-
 
 
 #### Overview 
@@ -227,7 +225,7 @@ Sau khi thử một lúc sẽ thấy được flag thật thoai!
 
 
 
-nice rất hay và vừa sức cho mọi lứa tuổi :v 
+rất hay và vừa sức cho mọi lứa tuổi :v 
 
 
 
@@ -259,5 +257,5 @@ Một ví dụ về kỹ thuật gọi Syscall trực tiếp:
 
 Kỹ thuật này giúp mã độc tránh được các biện pháp giám sát dựa trên hành vi như khi sử dụng Windows API.
 
-
+(Đang viết tiếp ... :v)
 
