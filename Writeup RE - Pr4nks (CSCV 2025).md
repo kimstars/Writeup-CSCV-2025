@@ -60,7 +60,7 @@ Ta có thể thấy mỗi khối event log đang chứa một đoạn mã powers
 
 #### Phân tích Pcapng
 
-Sử dụng lọc HTTP để xem qua ta có thể thấy một số traffic bất thường với các endpoint /get_latest_version /download_update . Khá dễ để suy đoán về hành vi mà mã độc đang thực hiện trên các endpoint này.
+Sử dụng lọc HTTP để xem qua ta có thể thấy một số traffic bất thường với các endpoint /**get_latest_version** /**download_update** . 
 
 ![image-20251124103855992](./image/image-20251124103855992.png)
 
@@ -74,7 +74,7 @@ http://update.rnicrosoft.com/get_latest_version
 
 ![image-20251124113208934](./image/image-20251124113208934.png)
 
-sử dụng lọc theo object http ta quay sát đc
+sử dụng lọc theo object http ta quan sát thấy:
 
 - endpoint **/download_update** : đang nhận dữ liệu có thể ở dạng Base64
 
