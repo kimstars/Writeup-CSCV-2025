@@ -48,7 +48,13 @@ Ta có thể thấy mỗi khối event log đang chứa một đoạn mã powers
 
 ;)) Ở đây mình thực hiện copy tay các đoạn log chứa mã powershell ra file .json khác để tiện xử lý (không biết các coder tay to có phương pháp nào xử lý nhanh gọn khác không). 
 
+![image-20251125084559343](./image/image-20251125084559343.png)
+
 Để từ đó khôi phục được đoạn Base64 chứa code file exe và tiếp tục RE.
+
+![image-20251125084614999](./image/image-20251125084614999.png)
+
+![image-20251125084619956](./image/image-20251125084619956.png)
 
 
 
